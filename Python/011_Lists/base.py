@@ -1,0 +1,3 @@
+import random
+jokelist = [ "What do you call a chicken that crosses the road, hops is mud, and crosses the road again?          A drity double crosser", "What did a monster eat after his dentist appointment?          He ate the Dentist", "Why did king kong climb the empire state building?          To catch his flight", " What is minne mouse's favorite car?        A minne van", "What did the buffalo say when he left his son?     Bison", "What do you call someone who immigrated to Sweden?       Artificial Swedener.", "Why should pandas go extienct?     because they can die of a heart attack after moving 12 feet"]
+print(jokelist[random.randrange(7) - 1])

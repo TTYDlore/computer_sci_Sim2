@@ -1,0 +1,6 @@
+num_1 = (4)
+num_2 = (2)
+answer = (num_1 * num_2)
+print("the first number is " + str(num_1))
+print("the second number is " + str(num_2))
+print("the answer is " + str(answer))

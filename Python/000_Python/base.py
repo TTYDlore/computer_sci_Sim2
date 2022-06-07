@@ -1,0 +1,2 @@
+setnece = "abcdef"
+print(setnece)
